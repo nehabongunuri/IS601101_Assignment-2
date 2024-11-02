@@ -1,0 +1,23 @@
+body{
+    background-image:linear-gradient(to bottom right,skyblue, whitesmoke,lightgreen );
+    height:100vh;
+    text-align: center;
+    
+    }
+    p{
+        font-size: 20px;
+    }
+    h1{
+        font-size: 50px;
+    }
+    
+    label{
+        font-size: 25px;
+    }
+    input{
+    padding:5px;
+    }
+    button{
+        padding:5px;
+    }
+ 
